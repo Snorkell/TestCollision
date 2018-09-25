@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test de commit ammend
+=======
+Ceci est un test de commit avec collision
+>>>>>>> ee1f09c09974eda641ae9067f60d1409a54a08aa
